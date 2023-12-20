@@ -1,0 +1,13 @@
+P.one {
+    background-color: rgb(95, 91, 91);
+    opacity: 0.78;
+}
+P.two
+{
+    background-color: rgb(228, 59, 59);
+    opacity: 0.78;
+}
+p.one {
+    border-width: 2px;}
+    p.two {
+    border-width: thick;}
